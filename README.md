@@ -1,6 +1,12 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm Mayank Bhanwara</h1>
-<h3 align="center">👋 Hello, I’m @MayankBhanwara<br>👀 I’m interested in front-end web development and enhancing it with strong backend skills.<br>🌱 I’m currently learning C/C++ and aiming to master backend development to empower my front-end work.<br>💞️ I’m looking to collaborate on projects involving web development and backend integration.<br>📫 How to reach me: Insta I'd - @mayankbhanwara2074 <br>😄 Pronouns: He/Him<br>⚡ Fun fact: I love blending logic with creativity in code.</h3>
+💫 About Me:
+
+👋 Hello, I’m @MayankBhanwara
+👀 I’m interested in front-end web development and enhancing it with strong backend skills.
+🌱 I’m currently learning C/C++ and aiming to master backend development to empower my front-end work.
+💞️ I’m looking to collaborate on projects involving web development and backend integration.
+📫 How to reach me: Insta I'd - @mayank__jain2074
+😄 Pronouns: He/Him
+⚡ Fun fact: I love blending logic with creativity in code.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayankbhanwara" alt="mayankbhanwara" /></a> </p>
 
